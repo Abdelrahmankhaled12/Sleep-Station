@@ -16,16 +16,6 @@ Sleep Station is a website specializing in selling sleep-related products. The w
 <img src="https://i.ibb.co/c16R1RT/Screenshot-2023-03-31-193535.png">
 
 
-<hr>
-
-
-<img src="https://i.ibb.co/rH7FmL4/bandicam-2023-03-31-20-28-21-639.gif">
-
-
-<img src="https://i.ibb.co/ypGfggT/bandicam-2023-03-31-20-16-57-674.gif" alt="bandicam-2023-03-31-20-16-57-674">
-
-
-<img src="https://i.ibb.co/PhnnT0D/bandicam-2023-03-31-20-09-37-002.gif">
 
 
 
