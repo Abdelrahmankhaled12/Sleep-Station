@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sleep Station</title>
+    <!--Bootstrap css file-->
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/bootstrap.min.css.map">
+    <!-- animate on scroll library -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Owl Carousel Css -->
+    <link rel="stylesheet" href="./css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
+    <!-- Font AweSome -->
+    <script src="https://kit.fontawesome.com/49f02d4a75.js" crossorigin="anonymous"></script>
+    <!-- Main css file -->
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+
+<body>
+    <!-- start header -->
+    <nav class="navbar navbar-expand-lg bg-body-tertiary position-sticky">
+        <div class="container">
+            <div class="logo">
+                <a href="./index.html">
+                    <img src="./images/logo/logo.png" alt="">
+                </a>
+            </div>
+            <div class="btn-group mb-3 smallNone" role="group">
+                <button type="button" class="language dropdown-toggle" data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    <img src="./images/language-icon/united-states-of-america.png"> EN
+                </button>
+                <ul class="dropdown-menu">
+                    <li class="arabic"> <a href="./productsArabic.html"> <img src="./images/language-icon/egypt.png"> AR</a> </li>
+                    <li> <a href="./products.html"> <img src="./images/language-icon/united-states-of-america.png"> EN</a></li>
+                </ul>
+            </div>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+                <ul class="navbar-nav mb-2 mb-lg-0 ">
+                    <li class="nav-item">
+                        <a class="nav-link " aria-current="page" href="./index.html#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./index.html#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="./products.html">Products</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="./index.html#contact">Contact</a>
+                    </li>
+                </ul>
+                <div class="btn-group mb-3 bigNone" role="group">
+                    <button type="button" class="language dropdown-toggle" data-bs-toggle="dropdown"
+                        aria-expanded="false">
+                        <img src="./images/language-icon/united-states-of-america.png"> EN
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li class="arabic"> <a href="./productsArabic.html"> <img src="./images/language-icon/egypt.png"> AR</a> </li>
+                        <li> <a href="./products.html"> <img src="./images/language-icon/united-states-of-america.png"> EN</a></li>
+                    </ul>
+                </div>
+                <div class="icon" id="cartIcon" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button"
+                    aria-controls="offcanvasExample">
+                    <span class="count" id="count">0</span>
+                    <i class="fa-solid fa-cart-plus"></i>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <!-- end header -->
+    <!-- start landing about -->
+    <div class="landing-product overflow-hidden pb-5 d-flex justify-content-center align-items-center">
+        <div class="container">
+            <div class="text" data-aos="fade-up" data-aos-delay="400" data-aos-duration="1000">
+                <h1 class="mb-3">Our Products</h1>
+            </div>
+        </div>
+    </div>
+    <!-- end landing about -->
+    <!-- Button Scroll UP And Button Whatts App -->
+    <button class="btn btn-primary rounded-pill scroll"><i class="fa-solid
+            fa-angles-up"></i></button>
+    <a class="whatts" href="https://wa.me/+2001017159471"><i class="fa-brands fa-whatsapp"></i></a>
+    <!-- Button Scroll UP And Button Whatts App -->
+    <!-- start products -->
+    <div class="products pt-5 pb-5" id="product">
+        <div class="container">
+            <ul class="d-flex justify-content-center align-items-center mb-5" data-aos="fade-zoom-in"
+                data-aos-delay="400" data-aos-duration="1000">
+                <li class="active typesProduct" id="all">All</li>
+                <li class="typesProduct" id="linen">Linen</li>
+                <li class="typesProduct" id="mattress-Toper">Mattress Toper</li>
+                <li class="typesProduct" id="towels">Towels</li>
+                <li class="typesProduct" id="pillow">Pillows</li>
+                <li class="typesProduct" id="Quilts">Quilts</li>
+                <li class="typesProduct" id="Mattresses">Mattresses and scuna</li>
+                <li class="typesProduct" id="Bean-Bags">Bean Bags</li>
+            </ul>
+            <div class="boxes">
+                <div class="row" id="products">
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end products -->
+    <!-- start footer -->
+    <footer class="pb-5" data-aos="fade-zoom-in" data-aos-delay="300" data-aos-duration="1000">
+        <div class="part position-relative">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 p-sm-3">
+                        <div class="part-1 mt-5">
+                            <a href="./index.html"><img src="./images/logo/logo.png" alt=""></a>
+                            <p class="text-white-50 pe-1 mt-3">Sleep Station Is One Shop Where You Can Find The Best Bed
+                                Linen, Bedding, Mattress, Towels, Bean Bags & More.....</p>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 p-sm-3">
+                        <div class="part-2 mt-5">
+                            <h3>Address</h3>
+                            <ul class="mt-4">
+                                <li class="phone">
+                                    <a href="https://wa.me/+2001017159471">
+                                        +20 01017159471
+                                    </a>
+                                </li>
+                                <li class="email">
+                                    <a href="mailto:Sales@Sleepstation-Eg.Com?subject=&body=">
+                                        Sales@Sleepstation-Eg.Com
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 p-sm-3">
+                        <div class="part-3 mt-5">
+                            <h3>Quick Links</h3>
+                            <ul class="pt-3">
+                                <li><a href="./index.html#home">Home</a></li>
+                                <li><a href="./index.html#about">About</a></li>
+                                <li><a href="./products.html">Products</a></li>
+                                <li><a href="./index.html#contact">Contact Us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 p-sm-3">
+                        <div class="part-4 mt-5">
+                            <h3>Call us</h3>
+                            <p class="text-white-50 pe-5">Contact us via e-mail or phone, we are waiting for your call
+                                or message</p>
+                            <div class="email-call mt-2 mb-2">
+                                <a href="mailto:Sales@Sleepstation-Eg.Com?subject=&body=">
+                                    Sales@Sleepstation-Eg.Com
+                                </a>
+                            </div>
+                            <div class="icons d-flex justify-content-start mt-4">
+                                <div class="icon facebook">
+                                    <a href="https://www.facebook.com/officialsleepstation?mibextid=ZbWKwL"><i
+                                            class="fa-brands fa-facebook-f"></i></a>
+                                </div>
+                                <div class="icon instagram">
+                                    <a href="https://instagram.com/officialsleepstation?igshid=YmMyMTA2M2Y="><i
+                                            class="fa-brands fa-instagram"></i></i></a>
+                                </div>
+                                <div class="icon twitter">
+                                    <a href=""><i class="fa-brands fa-twitter"></i></a>
+                                </div>
+                                <div class="icon linkedin">
+                                    <a href=""><i class="fa-brands fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- end footer  -->
+    <!-- start Reviews -->
+    <button class="btn btn-primary review" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasScrolling"
+        aria-controls="offcanvasScrolling">REVIEWS <i class="fa-solid fa-star"></i></button>
+    <div class="offcanvas offcanvas-start  offcanvas-start-2" data-bs-scroll="true" data-bs-backdrop="false"
+        tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasScrollingLabel">REVIEWS</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body" id="reviews">
+        </div>
+    </div>
+    <!-- end Reviews -->
+    <!-- start card -->
+    <div class="offcanvas offcanvas-start offcanvas-start-1 " tabindex="-1" id="offcanvasExample"
+        aria-labelledby="offcanvasExampleLabel ">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasExampleLabel"></h5>
+            <button type="button" class="btn-close" id="close-1" data-bs-dismiss="offcanvas"
+                aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <div class="container">
+                <h1>Your Card</h1>
+                <table>
+                    <thead>
+                        <tr>
+                            <td>PRODUCT</td>
+                            <td>QUANTITY</td>
+                            <td class="none">PRICE</td>
+                            <td>REMOVE</td>
+                        </tr>
+                    </thead>
+                    <tbody id="body-table">
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td class="title stylefooter">SUBTOTAL</td>
+                            <th class="totalPrice" id="totalPrice">EGP 0</th>
+                        </tr>
+                        <tr class="tablefooternone footerNone">
+                            <td class="title stylefooter">Shopping Cost</td>
+                            <th class="totalPrice">EGP 60</th>
+                        </tr>
+                        <tr class="total-price tablefooternone footerNone">
+                            <td class="title stylefooter total">Total</td>
+                            <th class="totalPrice total">EGP 60</th>
+                        </tr>
+                    </tfoot>
+                </table>
+                <form class="row mt-2 justify-content-center" id="formPromoCode">
+                    <div class="row mt-2  justify-content-center">
+                        <div class="col-lg-5">
+                            <div class="d-flex align-items-center justify-content-center mt-2">
+                                <i class="fa-solid fa-user iconsInput"></i>
+                                <input type="text" id="nameInput" class="data-in form-control" placeholder="Your Name"
+                                    aria-describedby="passwordHelpInline" required>
+                                    <div class="required">*</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row  mt-2 justify-content-center">
+                        <div class="col-lg-5">
+                            <div class="d-flex align-items-center justify-content-center mt-2">
+                                <i class="fa-solid fa-envelope iconsInput"></i>
+                                <input type="text" id="emailInput" class="data-in form-control" placeholder="Your Email"
+                                    aria-describedby="passwordHelpInline" required>
+                                    <div class="required">*</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-2 justify-content-center">
+                        <div class="col-lg-5">
+                            <div class="d-flex align-items-center justify-content-center mt-2">
+                                <i class="fa-solid fa-phone iconsInput"></i>
+                                <input type="text" id="phoneInput" class="data-in form-control" placeholder="Your Phone"
+                                    aria-describedby="passwordHelpInline" required>
+                                    <div class="required">*</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-2 justify-content-center">
+                        <div class="col-lg-5">
+                            <div class="d-flex align-items-center justify-content-center mt-2">
+                                <i class="fa-solid fa-location-dot iconsInput"></i>
+                                <input type="text" id="addressInput" class="data-in form-control" placeholder="your address "
+                                    aria-describedby="passwordHelpInline">
+                                    <div class="required">*</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-2 justify-content-center">
+                        <div class="col-lg-5">
+                            <div class="d-flex align-items-center justify-content-center mt-2">
+                                <i class="fa-regular fa-credit-card iconsInput"></i>
+                                <input type="text" id="cardInput" class="data-in form-control" placeholder="Your Cart"
+                                    aria-describedby="passwordHelpInline">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row mt-2 justify-content-center">
+                        <div class="col-lg-5">
+                            <select class="form-select"   id="selectedGon"  aria-label="Default select example">
+                                <option selected>Governorate</option>
+                                <option value="Cairo">Cairo</option>
+                                <option value="Alexandria">Alexandria</option>
+                                <option value="Assiut">Assiut</option>
+                                <option value="Aswan">Aswan</option>
+                                <option value="Beheira">Beheira</option>
+                                <option value="Bani Suef">Bani Suef</option>
+                                <option value="Daqahliya">Daqahliya</option>
+                                <option value="Damietta">Damietta</option>
+                                <option value="Fayyoum">Fayyoum</option>
+                                <option value="Gharbiya">Gharbiya</option>
+                                <option value="Giza">Giza</option>
+                                <option value="Helwan">Helwan</option>
+                                <option value="Ismailia">Ismailia</option>
+                                <option value="Kafr El Sheikh">Kafr El Sheikh</option>
+                                <option value="Luxor">Luxor</option>
+                                <option value="Marsa Matrouh">Marsa Matrouh</option>
+                                <option value="Minya">Minya</option>
+                                <option value="Monofiya">Monofiya</option>
+                                <option value="New Valley">New Valley</option>
+                                <option value="North Sinai">North Sinai</option>
+                                <option value="Port Said">Port Said</option>
+                                <option value="Qalioubiya">Qalioubiya</option>
+                                <option value="Qena">Qena</option>
+                                <option value="Red Sea">Red Sea</option>
+                                <option value="Sharqiya">Sharqiya</option>
+                                <option value="Sohag">Sohag</option>
+                                <option value="South Sinai">South Sinai</option>
+                                <option value="Suez">Suez</option>
+                                <option value="Tanta">Tanta</option>
+                            </select>
+                        </div>
+                    </div>
+                </form>
+                <form class="row g-3 justify-content-center mt-3" id="formPromoCode">
+                    <div class="col-lg-3">
+                        <label for="inputPassword2" class="visually-hidden">Promo code</label>
+                        <input type="text" class="form-control" id="inputPassword2" placeholder="Promo code">
+                    </div>
+                    <div class="col-lg-2">
+                        <button type="submit" class="btn btn-primary">Apply</button>
+                    </div>
+                </form>
+                <div class="button mt-4">
+                    <button class="buttonStyle check checkNone" id="checkOut">Check Out <i
+                            class="fa-solid fa-right-long"></i></button>
+                    <button class="buttonStyleBack check" id="back-btn"><i class="fa-solid fa-arrow-left"></i> Back To All
+                        Products
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end card -->
+    <!-- start Details -->
+    <div class="offcanvas offcanvas-bottom overflow-hidden" tabindex="-1" id="offcanvasBottom"
+        aria-labelledby="offcanvasBottomLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasBottomLabel"></h5>
+            <button type="button" id="btn-close" class="btn-close" data-bs-dismiss="offcanvas"
+                aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body small">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 position-relative image" id="slider-container-parent">
+                </div>
+                <div class="col-lg-6 col-md-12 p-5" id="details-container">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end Details -->
+    <!-- start payment method  -->
+    <button class="btn btn-primary offcanvasTopButton" type="button" data-bs-toggle="offcanvas"
+        data-bs-target="#offcanvasTop" aria-controls="offcanvasTop"></button>
+    <div class="offcanvas offcanvas-top checkout-methods" tabindex="-1" id="offcanvasTop"
+        aria-labelledby="offcanvasTopLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasTopLabel"></h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body d-flex justify-content-start ">
+            <div class="container">
+                <div class="row  d-flex justify-content-center align-items-center">
+                    <div class="col-lg-6 col-md-10 col-sm-12">
+                        <h2 class="text-center m-5">Select the payment method</h2>
+                        <h3>Choose the payment method</h3>
+                        <div class="form">
+                            <div class="form-check">
+                                <input class="form-check-input radio" type="radio" name="exampleRadios" id="exampleRadios1"
+                                    value="option1" checked>
+                                <label class="form-check-label d-flex justify-content-between align-items-center"
+                                    for="exampleRadios1">
+                                    <span>Card Payment</span>
+                                    <img src="./images/cashless-payment.png" alt="">
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input radio"  type="radio" name="exampleRadios" id="exampleRadios2"
+                                    value="option2">
+                                <label class="form-check-label d-flex justify-content-between align-items-center"
+                                    for="exampleRadios2">
+                                    <span>Cash</span>
+                                    <img src="./images/cash-on-delivery (1).png" alt="">
+                                </label>
+                            </div>
+                            <div class="form-check">
+                                <input class="form-check-input radio"   type="radio" name="exampleRadios" id="exampleRadios3"
+                                    value="option3">
+                                <label class="form-check-label d-flex justify-content-between align-items-center"
+                                    for="exampleRadios3">
+                                    <span>Valu</span>
+                                    <img src="./images/valu-seeklogo.com-1.png" width="40px" alt="">
+                                </label>
+                            </div>
+                        </div>
+                        <button class="buttonStyle check" id="checkoutFinal">Check Out <i class="fa-solid fa-right-long"></i></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- end payment method  -->
+    <script src="https://smtpjs.com/v3/smtp.js">
+    </script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            once: true,
+        });
+    </script>
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/paymobApi.js" type="module"></script>
+    <script src="./js/cart.js" type="module"></script>
+    <script src="./js/localStorage.js" type="module"></script>
+    <script src="./js/review.js"></script>
+    <script src="./js/script-2.js" type="module"></script>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+</body>
+</body>
+
+</html>

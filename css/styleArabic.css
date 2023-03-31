@@ -1,0 +1,117 @@
+
+/* Button Whatts APP */
+.whatts {
+    color: #fff;
+    position: fixed;
+    bottom: 130px;
+    right: 15px;
+    cursor: pointer;
+    z-index: 10300;
+    font-size: 50px;
+    background-color: #25d366;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.whatts:hover,
+.whatts:focus {
+    color: white;
+}
+
+.whatts i {
+    transform: translate(-3px, -11px);
+}
+
+.whatts::before {
+    content: "";
+    background-color: #25d366;
+    position: absolute;
+    width: 100%;
+    height: 20px;
+    left: 45px;
+    top: 35%;
+}
+
+/* Button Whatts APP */
+
+
+
+
+
+
+
+/* start header */
+nav .icon .count {
+    right: 35px;
+}
+/* end header */
+/* start about */
+.about .icon-2 {
+    right: -40px;
+    width: fit-content;
+}
+
+@media (max-width: 767px) {
+    .about .icon-2 {
+        padding: 10px;
+        right: -60px;
+    }
+
+    .about .image {
+        max-width: 250px;
+    }
+
+    .about .image .part-2 p:first-of-type {
+        font-size: 25px;
+    }
+
+    .about .image .part-2 p:last-of-type {
+        font-size: 16px;
+    }
+}
+
+.about ul li {
+    padding-right: 30px;
+}
+
+.about ul li::before {
+    right: 0;
+}
+/* end about */
+/* start footer */
+footer .part-2 ul li {
+    padding-right: 25px;
+}
+
+footer .part-2 ul li::before {
+    right: 0;
+    left: 100%;
+}
+
+footer .part-3 ul li a {
+    padding-right: 15px;
+}
+
+footer .part-3 ul li a::before {
+    content: "\f053";
+    right: 0;
+}
+
+/* end footer */
+/* start prodeucts */
+.products .price {
+    right: 18px;
+}
+
+.products .price::before {
+    right: 0;
+    border: 1em solid transparent;
+    border-right-color: #fff;
+}
+/* end prodeucts */
+/* start medthod check out */
+.form-check .form-check-input {
+    float: right; 
+}
+/* end medthod check out */

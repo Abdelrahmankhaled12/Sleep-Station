@@ -1,0 +1,732 @@
+[
+    {
+        "productTitle": "لحاف بديل الريش.",
+        "size": [
+            "180x220cm",
+            "220x240cm",
+            "240x260cm"
+        ],
+        "price": [
+            "972",
+            "1200",
+            "1320"
+        ],
+        "discount": [
+            "778",
+            "960",
+            "1056"
+        ],
+        "imageDetalias": [
+            "images/Down-Like-Quilt/Quilt-1.jpg",
+            "images/Down-Like-Quilt/Quilt-2.jpg",
+            "images/Down-Like-Quilt/Quilt-3.jpg",
+            "images/Down-Like-Quilt/Quilt-4.jpg"
+        ],
+        "id": 1,
+        "category": "Quilts",
+        "description":" حشو من الميكرو فايبر الناعم :حشو اللحاف من الشعاتير الحرة والدقيقة المصنعة بتقنيات متطورة (Hi tech fiber) الذي يتميز بالنعومة الشديدة ليعطي أقرب إحساس لألحفه لزغب الريش الطبيعي. <br> متوافر من لحاف داون لايك  اللون الأبيض. <br> الأبيض يسمح لك بتركيب كيس اللحاف الذي يناسب ذوقك وديكور غرفتك. <br>  قابلة للغسيل والتجفيف الالي حتى 60."
+    },
+    {
+        "productTitle": "وسادة بديلة الريش.",
+        "size": [
+            "1100g, 50x70cm",
+            "1300g, 50x70cm",
+            "1500g, 50x70cm"
+        ],
+        "price": [
+            "324",
+            "348",
+            "374"
+        ],
+        "discount": [
+            "259",
+            "278",
+            "300"
+        ],
+        "imageDetalias": [
+            "images/Down-Like-Pillow/Pillow-1.jpg",
+            "images/Down-Like-Pillow/Pillow-2.jpg"
+        ],
+        "id": 2,
+        "category": "pillow",
+        "description":" حشو من الميكرو فايبر الشعيرات الحرة والدقيقة المصنعة بتقنيات متطورة التي تتميز بالنعومة الشديدة لتعطي أقرب إحساس لوسادات زغب الريش الطبيعي."
+    },
+    {
+        "productTitle": "لحاف هولو.",
+        "size": [
+            "1500GM, 180x220cm",
+            "2000GM, 220x240cm",
+            "2500gM, 240x260"
+        ],
+        "price": [
+            "651",
+            "761",
+            "878"
+        ],
+        "discount": [
+            "651",
+            "767",
+            "878"
+        ],
+        "imageDetalias": [
+            "images/Hollow-Fiber-Quilt/Quilt-1.jpg",
+            "images/Hollow-Fiber-Quilt/Quilt-2.jpg"
+        ],
+        "id": 3,
+        "category": "Quilts",
+        "description": "حشو من حبيبات الفايبر المتكور: حشو اللحاف من حبيبات الفايبر المجوف المتكور الفخم يعطي الإحساس بالراحة والتدفئة. متوافر من لحاف الهولو اللون الأبيض. الأبيض يسمح لك بتركيب كيس اللحاف الذي يناسب ذوقك وديكور غرفتك. قابلة للغسيل والتجفيف الالي حتى 60."
+    },
+    {
+        "productTitle": "وسادة هولو فايبر.",
+        "size": [
+            "800G, 50x70cm",
+            "1000G, 50x70cm"
+        ],
+        "price": [
+            "195",
+            "227"
+        ],
+        "discount": [
+            "195",
+            "227"
+        ],
+        "imageDetalias": [
+            "images/Hollow-Pillow/Pillow-1.jpg",
+            "images/Hollow-Pillow/Pillow-2.jpg"
+        ],
+        "id": 4,
+        "category": "pillow",
+        "description" : "حشو من حبيبات الفايبر الهولو المتكور: حشو الوسادة من حبيبات الفايبر المجوف المتكور الفخم من يعطي الإحساس الأقرب لوسادات الريش الطبيعي."
+    },
+    {
+        "productTitle": "لحاف سوبريم شتوي.",
+        "size": [
+            "180x220cm",
+            "220x240cm",
+            "240x260cm"
+        ],
+        "price": [
+            "674",
+            "769",
+            "858"
+        ],
+        "discount": [
+            "506",
+            "576",
+            "643"
+        ],
+        "imageDetalias": [
+            "images/Winter-SupremeQuilt/Quilt-1.jpg",
+            "images/Winter-SupremeQuilt/Quilt-2.jpg"
+        ],
+        "id": 5,
+        "category": "Quilts",
+        "description": "تتميز ألحفة سليب استيشن عن الألحفة العادية بأنها مصنعة من الفايبر المضغوط والذي يجعل قدرتها عالية على الاحتفاظ بالشكل والخواص. <br> يتميز اللحاف السوبريم بقدرة عالية على العزل الحراري <br> متوافر من لحاف السوبريم اللون الأبيض. <br> الأبيض يسمح لك بتركيب كيس اللحاف الذي يناسب ذوقك وديكور غرفتك. <br> قابلة للغسيل والتجفيف الالي حتى 60. "
+    },
+    {
+        "productTitle": "لحاف سوبريم صيفي.",
+        "size": [
+            "180x220cm",
+            "220x240cm",
+            "240x260cm"
+        ],
+        "price": [
+            "543",
+            "610",
+            "672"
+        ],
+        "discount": [
+            "435",
+            "488",
+            "537"
+        ],
+        "imageDetalias": [
+            "images/Summer-Quilt/Quilt-1.jpg",
+            "images/Summer-Quilt/Quilt-2.jpg"
+        ],
+        "id": 6,
+        "category": "Quilts",
+        "description": "تتميز ألحفة سليب استيشن عن الألحفة العادية بأنها مصنعة من الفايبر المضغوط والذي يجعل قدرتها عالية على الاحتفاظ بالشكل والخواص. <br> متوافر من لحاف السوبريم اللون الأبيض. <br> الأبيض يسمح لك بتركيب كيس اللحاف الذي يناسب ذوقك وديكور غرفتك. <br> قابلة للغسيل والتجفيف الالي حتى 60. "
+    },
+    {
+        "productTitle": "لحاف ال all season.",
+        "size": [
+            "180x220cm",
+            "220x240cm",
+            "240x260cm"
+        ],
+        "price": [
+            "1051",
+            "1205",
+            "1360"
+        ],
+        "discount": [
+            "893",
+            "1024",
+            "1156"
+        ],
+        "imageDetalias": [
+            "images/Fiber-all-Session-Quilt/Quilt-1.jpg"
+        ],
+        "id": 7,
+        "category": "Quilts"
+    },
+    {
+        "productTitle": "مرتبة توبر هولو.",
+        "size": [
+            "7cm, 100x200cm",
+            "7cm, 120x200cm",
+            "7cm, 140x200cm",
+            "7cm, 150x200cm",
+            "7cm, 160x200cm",
+            "7cm, 170x200cm",
+            "7cm, 180x200cm",
+            "7cm,  200x200cm"
+        ],
+        "price": [
+            "969",
+            "1173",
+            "1305",
+            "1418",
+            "1436",
+            "1549",
+            "1568",
+            "1506"
+        ],
+        "discount": [
+            "775",
+            "939",
+            "1044",
+            "1134",
+            "1149",
+            "1240",
+            "1254",
+            "1207"
+        ],
+        "imageDetalias": [
+            "images/Mattress-hollow-fiber/Mattress-1.jpg",
+            "images/Mattress-hollow-fiber/Mattress-2.jpg"
+        ],
+        "id": 8,
+        "category": "mattress-Toper",
+        "description":"مرتبة مكملة لا غنى عنها: تستخدم بوضعها فوق المرتبة الأساسية لتوفير الدعم اللازم لانحنائات الجسم و تملىء فراغات العامود الفقري. <br> حشو من حبيبات الفايبر الهولو المتكور: حشو مرتبة التطرية من حبيبات الفايبر المجوف المتكور الفخم من يعطي الإحساس الأقرب لوسادات الريش الطبيعي."
+    },
+    {
+        "productTitle": "مرتبة توبر سوبريم.",
+        "size": [
+            "5cm, 100x200cm",
+            "5cm, 120x200cm",
+            "5cm, 140x200cm",
+            "5cm, 150x200cm",
+            "5cm, 160x200cm",
+            "5cm, 170x200cm",
+            "5cm, 180x200cm",
+            "5cm, 200x200cm"
+        ],
+        "price": [
+            "665",
+            "734",
+            "804",
+            "839",
+            "874",
+            "909",
+            "944",
+            "1014"
+        ],
+        "discount": [
+            "532",
+            "588",
+            "643",
+            "671",
+            "6999",
+            "727",
+            "755",
+            "811"
+        ],
+        "imageDetalias": [
+            "images/Mattress-supreme/Mattress-1.jpg",
+            "images/Mattress-supreme/Mattress-2.jpg"
+        ],
+        "id": 9,
+        "category": "mattress-Toper",
+        "description":"مرتبة مكملة لا غنى عنها: تستخدم بوضعها فوق المرتبة الأساسية لتوفير الدعم اللازم لانحنائات الجسم و تملىء فراغات العامود الفقري. <br> حشو من حبيبات الفايبر الهولو المتكور: حشو مرتبة التطرية من حبيبات الفايبر المجوف المتكور الفخم من يعطي الإحساس الأقرب لوسادات الريش الطبيعي."
+    },
+    {
+        "productTitle": "واقي مرتبة.",
+        "size": [
+            " 100x200cm",
+            "120x200cm",
+            "140x200cm",
+            "150x200cm",
+            "160x200cm",
+            "170x200cm",
+            "180x200cm",
+            "200x200cm"
+        ],
+        "price": [
+            "268",
+            "298",
+            "326",
+            "341",
+            "356",
+            "373",
+            "388",
+            "419"
+        ],
+        "discount": [
+            "201",
+            "233",
+            "244",
+            "256",
+            "267",
+            "280",
+            "291",
+            "341"
+        ],
+        "imageDetalias": [
+            "images/mattress-protect/Mattress-1.jpg",
+            "images/mattress-protect/Mattress-2.jpg",
+            "images/mattress-protect/Mattress-3.jpg"
+        ],
+        "id": 10,
+        "category": "mattress-Toper",
+        "description" : "واقي مرتبة يمنع تسرب السوائل , الطبقة الداخلية ووتر بروف مغطاه بطبقة من ال PU و الطبقة الخارجيه من وبري. <br> واقي المرتبة يسمح بتمرير الهواء للمرتبة (يسمح بالتنفس مما يحافظ على المرتبة و يقاوم نمو الطفيليات). <br>  قدرة عالية على امتصاص السوائل والعرق مما يعطي النائم شعورا افضل بالراحة والجفاف. <br> يمنع نمو البكتريا. <br> واقي مرتبة منتج صحي وناعم يؤدي إلى نوم أعمق و راحة وصحة أفضل. <br> يطيل عمر المرتبة ويحافظ عليها بحالة جيدة ونظيفة. <br> شكل أفضل للسرير مع سهولة في التركيب والخلع. <br> منتج مناسب للكبار والاطفال وحديثي الولادة. "
+    },
+    {
+        "productTitle": "ملاية باستيك.",
+        "size": [
+            "100x200cm",
+            "120x200cm",
+            "140x200cm",
+            "160x200cm",
+            "180x200cm",
+            "200x200cm"
+        ],
+        "price": [
+            "480",
+            "515",
+            "550",
+            "585",
+            "620",
+            "655"
+        ],
+        "discount": [
+            "408",
+            "438",
+            "468",
+            "497",
+            "527",
+            "557"
+        ],
+        "imageDetalias": [
+            "images/Fitted-Sheat/Sheat-1.jpg",
+            "images/Fitted-Sheat/Sheat-2.jpg",
+            "images/Fitted-Sheat/Sheat-3.jpg"
+        ],
+        "id": 11,
+        "category": "linen",
+        "color": true,
+        "colorTypes": [
+            "lvory",
+            "gray",
+            "black",
+            "maroon",
+            "white"
+        ],
+        "colorArabic": [
+            "ايفوري",
+            "جري",
+            "اسود",
+            "نبيتي",
+            "ابيض"
+        ],
+        
+        "description" : "مجموعة ملايات من القطن الخالص متوفر منها الألوان الأساسية التي ترضي الأذواق الكلاسيكية وألوان الموضة التي ترضي محبي الألوان الجريئة، وتنوع الألوان يسمح لك بعمل تركيبات جريئة أو ناعمه لتناسب تفضيلاتك الشخصية. <br> هذه الملاية مصنعة من القطن بنسه 100%. <br> قماش ملاية من الخيوط المتينه الى تصل الى 150 فتله فى البوصه التى تعطى متانه عاليه للمنتج. <br> الملايات مذوده باستك من اربع جوانب لتكون محكمه على المرتبه.  "
+    },
+    {
+        "productTitle": "واقي مخدة.",
+        "size": [
+            "50x70cm"
+        ],
+        "price": [
+            "120"
+        ],
+        "discount": [
+            "90"
+        ],
+        "imageDetalias": [
+            "images/Pillow-Protect/Pillow-1.jpg",
+            "images/Pillow-Protect/Pillow-2.jpg",
+            "images/Pillow-Protect/Pillow-3.jpg"
+        ],
+        "id": 12,
+        "category": "pillow"
+    },
+    {
+        "productTitle": "ملاية عادية.",
+        "size": [
+            "180x270cm",
+            "240x270cm",
+            "280x270cm"
+        ],
+        "price": [
+            "492",
+            "597",
+            "667"
+        ],
+        "discount": [
+            "419",
+            "508",
+            "567"
+        ],
+        "imageDetalias": [
+            "images/Flat-Sheat/Sheat-1.jpg",
+            "images/Flat-Sheat/Sheat-2.jpg",
+            "images/Flat-Sheat/Sheat-3.jpg"
+        ],
+        "id": 13,
+        "category": "linen",
+        "color": true,
+        "colorTypes": [
+            "lvory",
+            "gray",
+            "black",
+            "maroon",
+            "white"
+        ],
+        "colorArabic": [
+            "ايفوري",
+            "جري",
+            "اسود",
+            "نبيتي",
+            "ابيض"
+        ],
+        "description" : "مجموعة ملايات من القطن الخالص متوفر منها الألوان الأساسية التي ترضي الأذواق الكلاسيكية وألوان الموضة التي ترضي محبي الألوان الجريئة، وتنوع الألوان يسمح لك بعمل تركيبات جريئة أو ناعمه لتناسب تفضيلاتك الشخصية. <br> هذه الملاية مصنعة من القطن بنسه 100% . <br> قماش ملاية من الخيوط المتينه الى تصل الى 150 فتله فى البوصه التى تعطى متانه عاليه للمنتج.  "
+    },
+    {
+        "productTitle": "كيس لحاف.",
+        "size": [
+            "180x220cm",
+            "220x240cm",
+            "240x260cm"
+        ],
+        "price": [
+            "847",
+            "987",
+            "1056"
+        ],
+        "discount": [
+            "720",
+            "839",
+            "898"
+        ],
+        "imageDetalias": [
+            "images/Duvet-cover/Duvet-1.jpeg",
+            "images/Duvet-cover/Duvet-2.jpeg",
+            "images/Duvet-cover/Duvet-3.jpeg",
+            "images/Duvet-cover/Duvet-4.jpg"
+        ],
+        "id": 14,
+        "category": "linen",
+        "color": true,
+        "colorTypes": [
+            "lvory",
+            "gray",
+            "black",
+            "maroon",
+            "white"
+        ],
+        "colorArabic": [
+            "ايفوري",
+            "جري",
+            "اسود",
+            "نبيتي",
+            "ابيض"
+        ],
+        "description":"مجموعة أكياس لحاف  من القطن الخالص متوفر منها الألوان الأساسية التي ترضي الأذواق الكلاسيكية وألوان الموضة التي ترضي محبي الألوان الجريئة، وتنوع الألوان يسمح لك بعمل تركيبات جريئة أو ناعمه لتناسب تفضيلاتك الشخصية. <br> اكياس لحاف مصنوعة من القطن بنسه 100% الخالص والذي يتميز بالشعيرات الناعمة لتنتج منتج ناعمة وبعمر افتراضي طويل ومظهر جذاب من أفضل قطن موجود في العالم. <br> قماش اكياس لحاف من الخيوط المتينه الى تصل الى 150 فتله فى البوصه التى تعطى متانه عاليه للمنتج. "
+    },
+    {
+        "productTitle": "بشكيل 100 % قطن.",
+        "size": [
+            "750GM, 70x140cm"
+        ],
+        "price": [
+            "305"
+        ],
+        "discount": [
+            "244"
+        ],
+        "imageDetalias": [
+            "images/bath-towel/towels-1.jpg",
+            "images/bath-towel/towels-2.jpg"
+        ],
+        "id": 15,
+        "category": "towels"
+    },
+    {
+        "productTitle": "فوطة وجه 100% قطن.",
+        "size": [
+            "350GM, 50x100cm"
+        ],
+        "price": [
+            "169"
+        ],
+        "discount": [
+            "135"
+        ],
+        "imageDetalias": [
+            "images/face-towel/towels-1.jpg",
+            "images/face-towel/towels-2.jpg"
+        ],
+        "id": 16,
+        "category": "towels"
+    },
+    {
+        "productTitle": "فوطة يد 100% قطن.",
+        "size": [
+            "75GM, 33x33cm"
+        ],
+        "price": [
+            "77"
+        ],
+        "discount": [
+            "62"
+        ],
+        "imageDetalias": [
+            "images/hand-towel/towels-1.jpg",
+            "images/hand-towel/towels-1.jpg"
+        ],
+        "id": 17,
+        "category": "towels"
+    },
+    {
+        "productTitle": "بورنوص 100 % قطن.",
+        "size": [
+            "Free size"
+        ],
+        "price": [
+            "1049"
+        ],
+        "discount": [
+            "839"
+        ],
+        "imageDetalias": [
+            "images/bathroab/Bathroab-1.jpg",
+            "images/bathroab/Bathroab-2.jpg"
+        ],
+        "id": 18,
+        "category": "towels"
+    },
+    {
+        "productTitle": "مجموعة تشكيل فوط.",
+        "size": [
+            "Free size"
+        ],
+        "price": [
+            "535"
+        ],
+        "discount": [
+            "428"
+        ],
+        "imageDetalias": [
+            "images/set-towels/towels-1.jpg",
+            "images/set-towels/towels-2.jpg"
+        ],
+        "id": 19,
+        "category": "towels"
+    },
+    {
+        "productTitle": "وسادة رقبة.",
+        "size": [
+            "33*30*11"
+        ],
+        "price": [
+            "290"
+        ],
+        "discount": [
+            "232"
+        ],
+        "imageDetalias": [
+            "images/Neck-Pillow/Neck-2.jpg",
+            "images/Neck-Pillow/Neck-1.jpg"
+        ],
+        "id": 20,
+        "category": "pillow",
+        "color": true,
+        "colorTypes": [
+            "dark-Blue",
+            "black",
+            "maroon",
+            "brown"
+        ],
+        "colorArabic": [
+            "رمادي",
+            "اسود",
+            "نبيتي",
+            "بني"
+        ],
+        "description" : "دعم فائق للرقبة أثناء النوم: وسادة مصنعة من الميموري فوم المطاط الذي يتميز بالحساسية للضغوط مما يوفر الدعم اللازم للرقبة ويساعد على تقليل الضغط على فقرات الرقبة والعامود الفقري وتقلل من آلام الرقبة والكتفين."
+    },
+    {
+        "productTitle": "وسادة ميموري فوم.",
+        "size": [
+            "40x60x15cm"
+        ],
+        "price": [
+            "650"
+        ],
+        "discount": [
+            "520"
+        ],
+        "imageDetalias": [
+            "images/Contour-Foam-Pillow/Pillow-1.jpg",
+            "images/Contour-Foam-Pillow/Pillow-2.jpg",
+            "images/Contour-Foam-Pillow/Pillow-3.jpg"
+        ],
+        "id": 21,
+        "category": "pillow"
+    },
+    {
+        "productTitle": "وسادة ميموري فوم استندر.",
+        "size": [
+            "40x60x15cm"
+        ],
+        "price": [
+            "800"
+        ],
+        "discount": [
+            "650"
+        ],
+        "imageDetalias": [
+            "images/Pillow-Foam-Stander/Stander-1.jpg",
+            "images/Pillow-Foam-Stander/Stander-2.jpg"
+        ],
+        "id": 22,
+        "category": "pillow"
+    },
+    {
+        "productTitle": "وسادة ميموري فوم جيل استندر.",
+        "size": [
+            "40x60x15cm"
+        ],
+        "price": [
+            "1330"
+        ],
+        "discount": [
+            "1100"
+        ],
+        "imageDetalias": [
+            "images/Jill-pillow/pillow-1.jpg",
+            "images/Jill-pillow/Pillow-2.jpg"
+        ],
+        "id": 23,
+        "category": "pillow"
+    },
+    {
+        "productTitle": "وسادة سوبريم.",
+        "size": [
+            "1000g, 50x70cm",
+            "1200g, 50x70cm"
+        ],
+        "price": [
+            "250",
+            "290"
+        ],
+        "discount": [
+            "200",
+            "240"
+        ],
+        "imageDetalias": [
+            "images/Supreme-Pillow/Pillow-1.jpg",
+            "images/Supreme-Pillow/Pillow-2.jpg"
+        ],
+        "id": 24,
+        "category": "pillow"
+    },
+    {
+        "productTitle": "مرتبة تطرية ميموري فوم.",
+        "size": [
+            "100x200cm",
+            "120x200cm",
+            "140x200cm",
+            "160x200cm",
+            "180x200cm",
+            "200x200cm"
+        ],
+        "price": [
+            "2400",
+            "2700",
+            "3300",
+            "3540",
+            "3720",
+            "4200"
+        ],
+        "discount": [
+            "2000",
+            "2250",
+            "2570",
+            "2950",
+            "3100",
+            "3500"
+        ],
+        "imageDetalias": [
+            "images/mattress-memory-foam/Mattress-1.jpg",
+            "images/mattress-memory-foam/Mattress-2.jpg"
+        ],
+        "id": 25,
+        "category": "mattress-Toper"
+    },
+    {
+        "productTitle": " وسادة ميموري فوم كونتور جيل .",
+        "size": [
+            "40x60x15cm"
+        ],
+        "price": [
+            "1330"
+        ],
+        "discount": [
+            "1100"
+        ],
+        "imageDetalias": [
+            "images/Pillow-Jill-con/Contour2.jpg",
+            "images/Pillow-Jill-con/Contour.jpg"  
+        ],
+        "id": 26,
+        "category": "pillow"
+    },
+    {
+        "productTitle": "كيس لحاف بشريط ستان.",
+        "size": [
+            "180x220cm",
+            "220x240cm",
+            "240x260cm"
+        ],
+        "price": [
+            "900",
+            "1100",
+            "1150"
+        ],
+        "discount": [
+            "800",
+            "930",
+            "1000"
+        ],
+        "imageDetalias": [
+            "images/Duvet-Cover-Inner-Border-design/Duvet-1.jpg",
+            "images/Duvet-Cover-Inner-Border-design/Duvet-2.jpg",
+            "images/Duvet-Cover-Inner-Border-design/Duvet-3.jpg",
+            "images/Duvet-Cover-Inner-Border-design/Duvet-4.jpg"
+        ],
+        "id": 27,
+        "category": "linen",
+        "color": true,
+        "colorTypes": [
+            "lvory",
+            "white"
+        ],
+        "colorArabic": [
+            "جري",
+            "ابيض"
+        ]
+    }
+]
